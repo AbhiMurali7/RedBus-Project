@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="91821" started-at="2019-04-30T05:58:18Z" finished-at="2019-04-30T05:59:50Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="91821" started-at="2019-04-30T05:58:18Z" finished-at="2019-04-30T05:59:50Z">
+      <class name="testpack.RedbusProject">
+        <test-method status="PASS" signature="OpenBrowser()[pri:0, instance:testpack.RedbusProject@51081592]" name="OpenBrowser" is-config="true" duration-ms="12391" started-at="2019-04-30T05:58:18Z" finished-at="2019-04-30T05:58:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpenBrowser -->
+        <test-method status="PASS" signature="TripDetails()[pri:0, instance:testpack.RedbusProject@51081592]" name="TripDetails" duration-ms="78288" started-at="2019-04-30T05:58:31Z" finished-at="2019-04-30T05:59:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TripDetails -->
+        <test-method status="PASS" signature="CloseBrowser()[pri:0, instance:testpack.RedbusProject@51081592]" name="CloseBrowser" is-config="true" duration-ms="1063" started-at="2019-04-30T05:59:49Z" finished-at="2019-04-30T05:59:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CloseBrowser -->
+      </class> <!-- testpack.RedbusProject -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
